@@ -15,6 +15,6 @@ if age > 18 or money > 100:
 print(not 1 == 1)
 print(not 1 > 7)
 
-print(False == False or True)
+print((False == False) or True)
 print(False == (False or True))
 print((False == False) or True)

@@ -5,3 +5,12 @@ while i <= x:
     i = i + 2
 
 print('Finished')
+
+i = 1
+while True:
+    print(i)
+    i = i + 2
+    if i > x:
+        break
+
+print('Finished')
